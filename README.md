@@ -2,7 +2,7 @@
 
 ![Github stars](https://img.shields.io/github/stars/NeoTR/OsmanSetup-GUI)
 ![GitHub top language](https://img.shields.io/github/languages/top/NeoTR/OsmanSetup-GUI)
-![GitHub last commit](https://img.shields.io/github/last-commit/repoNeoTR/OsmanSetup-GUI)
+![GitHub last commit](https://img.shields.io/github/last-commit/NeoTR/OsmanSetup-GUI)
 
 This project is a C++ application that uses GLFW, ImGui, and Glad libraries to create a GUI application. It also uses Windows API for various system-level operations.
 
