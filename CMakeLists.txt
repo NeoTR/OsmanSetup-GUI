@@ -4,7 +4,8 @@ project(dear-imgui-template)
 set(CMAKE_CXX_STANDARD 20)
 set(LIBRARIES_DIR lib)
 
-add_executable(dear-imgui-template
+# Set WIN32 to create a Windows application
+add_executable(dear-imgui-template WIN32
         vendor/imgui_impl_glfw.h
         vendor/imgui_impl_glfw.cpp
         vendor/imgui_impl_opengl3.h
