@@ -18,7 +18,7 @@ This project is a C++ application that uses GLFW, ImGui, and Glad libraries to c
 - Optimize PC
 - Find Drivers
 
-## 📚 Prerequisites
+## 📚 Major Libraries
 
 - C++ Compiler
 - [GLFW](https://www.glfw.org/)
